@@ -1,1 +1,1 @@
-# testament-mobile-product-image-issue
+# Testament theme mobile product image issue
